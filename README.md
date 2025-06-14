@@ -23,7 +23,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://karan-dangol0.github.io/frontend-mentor-1/)
+- Solution URL: [Click me💩](https://www.frontendmentor.io/solutions/results-summary-component-XIF9nY0t1e)
 - Live Site URL: [Click me❤️](https://karan-dangol0.github.io/frontend-mentor-1/)
 
 ## My process
